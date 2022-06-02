@@ -32,6 +32,9 @@ User needs to see precautions while sowing the seeds.
 * WEATHER FORECASTING:
 We are able to detect the weather forecast of the location of the plant to monitor its health.
 
+* AGRICULTURE CHATBOT:
+This feature helps the farmers to type their concerns and troubles to our chatbot which takes in their concerns and gives adequate results to them based on their queries. This is a very useful tool as farmers can get their queries verified and get solutions to their problems.
+
 ## Links
 * GitHub Repo link: [Link to repository](https://github.com/atharva1608/agriot.git)
 * Live Project Link: [Website link here](https://smart-ml-and-iot-based-agriculture-project.on.drv.tw/agrox3_final/web/)
